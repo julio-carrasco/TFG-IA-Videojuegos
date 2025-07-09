@@ -1,0 +1,69 @@
+{
+    "Scientist": {
+        "checkpoints": [
+            {
+                "steps": 499975,
+                "file_path": "results\\corridor_04\\Scientist\\Scientist-499975.onnx",
+                "reward": null,
+                "creation_time": 1751902063.6273384,
+                "auxillary_file_paths": [
+                    "results\\corridor_04\\Scientist\\Scientist-499975.pt"
+                ]
+            },
+            {
+                "steps": 934414,
+                "file_path": "results\\corridor_04\\Scientist\\Scientist-934414.onnx",
+                "reward": null,
+                "creation_time": 1751903445.3376493,
+                "auxillary_file_paths": [
+                    "results\\corridor_04\\Scientist\\Scientist-934414.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 934414,
+            "file_path": "results\\corridor_04\\Scientist.onnx",
+            "reward": null,
+            "creation_time": 1751903445.3376493,
+            "auxillary_file_paths": [
+                "results\\corridor_04\\Scientist\\Scientist-934414.pt"
+            ]
+        }
+    },
+    "Robot": {
+        "checkpoints": [
+            {
+                "steps": 499991,
+                "file_path": "results\\corridor_04\\Robot\\Robot-499991.onnx",
+                "reward": -1.2268268295362883,
+                "creation_time": 1751902067.3082314,
+                "auxillary_file_paths": [
+                    "results\\corridor_04\\Robot\\Robot-499991.pt"
+                ]
+            },
+            {
+                "steps": 932585,
+                "file_path": "results\\corridor_04\\Robot\\Robot-932585.onnx",
+                "reward": -1.7214030465658974,
+                "creation_time": 1751903445.4609582,
+                "auxillary_file_paths": [
+                    "results\\corridor_04\\Robot\\Robot-932585.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 932585,
+            "file_path": "results\\corridor_04\\Robot.onnx",
+            "reward": -1.7214030465658974,
+            "creation_time": 1751903445.4609582,
+            "auxillary_file_paths": [
+                "results\\corridor_04\\Robot\\Robot-932585.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    }
+}

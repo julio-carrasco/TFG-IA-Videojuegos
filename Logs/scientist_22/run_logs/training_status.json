@@ -1,0 +1,65 @@
+{
+    "Scientist": {
+        "checkpoints": [
+            {
+                "steps": 999884,
+                "file_path": "results\\scientist_22\\Scientist\\Scientist-999884.onnx",
+                "reward": null,
+                "creation_time": 1751302801.7937648,
+                "auxillary_file_paths": [
+                    "results\\scientist_22\\Scientist\\Scientist-999884.pt"
+                ]
+            },
+            {
+                "steps": 1499969,
+                "file_path": "results\\scientist_22\\Scientist\\Scientist-1499969.onnx",
+                "reward": null,
+                "creation_time": 1751307070.8486814,
+                "auxillary_file_paths": [
+                    "results\\scientist_22\\Scientist\\Scientist-1499969.pt"
+                ]
+            },
+            {
+                "steps": 1999930,
+                "file_path": "results\\scientist_22\\Scientist\\Scientist-1999930.onnx",
+                "reward": null,
+                "creation_time": 1751311255.6972253,
+                "auxillary_file_paths": [
+                    "results\\scientist_22\\Scientist\\Scientist-1999930.pt"
+                ]
+            },
+            {
+                "steps": 2499981,
+                "file_path": "results\\scientist_22\\Scientist\\Scientist-2499981.onnx",
+                "reward": null,
+                "creation_time": 1751315419.3119423,
+                "auxillary_file_paths": [
+                    "results\\scientist_22\\Scientist\\Scientist-2499981.pt"
+                ]
+            },
+            {
+                "steps": 2517461,
+                "file_path": "results\\scientist_22\\Scientist\\Scientist-2517461.onnx",
+                "reward": null,
+                "creation_time": 1751315571.7464614,
+                "auxillary_file_paths": [
+                    "results\\scientist_22\\Scientist\\Scientist-2517461.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2517461,
+            "file_path": "results\\scientist_22\\Scientist.onnx",
+            "reward": null,
+            "creation_time": 1751315571.7464614,
+            "auxillary_file_paths": [
+                "results\\scientist_22\\Scientist\\Scientist-2517461.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    }
+}

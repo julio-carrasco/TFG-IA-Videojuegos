@@ -1,0 +1,123 @@
+{
+    "Alien": {
+        "checkpoints": [
+            {
+                "steps": 1499842,
+                "file_path": "results\\alien_02\\Alien\\Alien-1499842.onnx",
+                "reward": 25.372876411014133,
+                "creation_time": 1749740460.0910435,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Alien\\Alien-1499842.pt"
+                ]
+            },
+            {
+                "steps": 1999946,
+                "file_path": "results\\alien_02\\Alien\\Alien-1999946.onnx",
+                "reward": 53.116087801316205,
+                "creation_time": 1749741201.4696698,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Alien\\Alien-1999946.pt"
+                ]
+            },
+            {
+                "steps": 2499506,
+                "file_path": "results\\alien_02\\Alien\\Alien-2499506.onnx",
+                "reward": 94.33770534396172,
+                "creation_time": 1749741939.5094888,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Alien\\Alien-2499506.pt"
+                ]
+            },
+            {
+                "steps": 2999085,
+                "file_path": "results\\alien_02\\Alien\\Alien-2999085.onnx",
+                "reward": 367.6903425852458,
+                "creation_time": 1749742680.3198357,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Alien\\Alien-2999085.pt"
+                ]
+            },
+            {
+                "steps": 3232916,
+                "file_path": "results\\alien_02\\Alien\\Alien-3232916.onnx",
+                "reward": 467.2338112484325,
+                "creation_time": 1749743027.1706276,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Alien\\Alien-3232916.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3232916,
+            "file_path": "results\\alien_02\\Alien.onnx",
+            "reward": 467.2338112484325,
+            "creation_time": 1749743027.1706276,
+            "auxillary_file_paths": [
+                "results\\alien_02\\Alien\\Alien-3232916.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    },
+    "Robot": {
+        "checkpoints": [
+            {
+                "steps": 3999654,
+                "file_path": "results\\alien_02\\Robot\\Robot-3999654.onnx",
+                "reward": -8.430321073194719,
+                "creation_time": 1751550254.9756887,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Robot\\Robot-3999654.pt"
+                ]
+            },
+            {
+                "steps": 4499998,
+                "file_path": "results\\alien_02\\Robot\\Robot-4499998.onnx",
+                "reward": -1.0972212028580826,
+                "creation_time": 1751551021.4428468,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Robot\\Robot-4499998.pt"
+                ]
+            },
+            {
+                "steps": 4999951,
+                "file_path": "results\\alien_02\\Robot\\Robot-4999951.onnx",
+                "reward": -0.8556835924819955,
+                "creation_time": 1751551787.9683254,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Robot\\Robot-4999951.pt"
+                ]
+            },
+            {
+                "steps": 5499959,
+                "file_path": "results\\alien_02\\Robot\\Robot-5499959.onnx",
+                "reward": -1.2212260156882473,
+                "creation_time": 1751552547.9688587,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Robot\\Robot-5499959.pt"
+                ]
+            },
+            {
+                "steps": 5584425,
+                "file_path": "results\\alien_02\\Robot\\Robot-5584425.onnx",
+                "reward": null,
+                "creation_time": 1751552677.3445702,
+                "auxillary_file_paths": [
+                    "results\\alien_02\\Robot\\Robot-5584425.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5584425,
+            "file_path": "results\\alien_02\\Robot.onnx",
+            "reward": null,
+            "creation_time": 1751552677.3445702,
+            "auxillary_file_paths": [
+                "results\\alien_02\\Robot\\Robot-5584425.pt"
+            ]
+        }
+    }
+}

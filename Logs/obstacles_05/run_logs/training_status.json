@@ -1,0 +1,65 @@
+{
+    "Scientist": {
+        "checkpoints": [
+            {
+                "steps": 499985,
+                "file_path": "results\\obstacles_05\\Scientist\\Scientist-499985.onnx",
+                "reward": null,
+                "creation_time": 1752003146.045895,
+                "auxillary_file_paths": [
+                    "results\\obstacles_05\\Scientist\\Scientist-499985.pt"
+                ]
+            },
+            {
+                "steps": 999953,
+                "file_path": "results\\obstacles_05\\Scientist\\Scientist-999953.onnx",
+                "reward": null,
+                "creation_time": 1752004377.5051455,
+                "auxillary_file_paths": [
+                    "results\\obstacles_05\\Scientist\\Scientist-999953.pt"
+                ]
+            },
+            {
+                "steps": 1499985,
+                "file_path": "results\\obstacles_05\\Scientist\\Scientist-1499985.onnx",
+                "reward": null,
+                "creation_time": 1752005611.6729045,
+                "auxillary_file_paths": [
+                    "results\\obstacles_05\\Scientist\\Scientist-1499985.pt"
+                ]
+            },
+            {
+                "steps": 1999953,
+                "file_path": "results\\obstacles_05\\Scientist\\Scientist-1999953.onnx",
+                "reward": null,
+                "creation_time": 1752006854.2493293,
+                "auxillary_file_paths": [
+                    "results\\obstacles_05\\Scientist\\Scientist-1999953.pt"
+                ]
+            },
+            {
+                "steps": 2248977,
+                "file_path": "results\\obstacles_05\\Scientist\\Scientist-2248977.onnx",
+                "reward": null,
+                "creation_time": 1752007472.863071,
+                "auxillary_file_paths": [
+                    "results\\obstacles_05\\Scientist\\Scientist-2248977.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2248977,
+            "file_path": "results\\obstacles_05\\Scientist.onnx",
+            "reward": null,
+            "creation_time": 1752007472.863071,
+            "auxillary_file_paths": [
+                "results\\obstacles_05\\Scientist\\Scientist-2248977.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    }
+}

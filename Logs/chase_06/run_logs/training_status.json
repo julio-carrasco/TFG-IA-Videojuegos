@@ -1,0 +1,89 @@
+{
+    "Robot": {
+        "checkpoints": [
+            {
+                "steps": 499625,
+                "file_path": "results\\chase_06\\Robot\\Robot-499625.onnx",
+                "reward": -0.4117608794144222,
+                "creation_time": 1751754440.1297836,
+                "auxillary_file_paths": [
+                    "results\\chase_06\\Robot\\Robot-499625.pt"
+                ]
+            },
+            {
+                "steps": 999864,
+                "file_path": "results\\chase_06\\Robot\\Robot-999864.onnx",
+                "reward": -17.537915316067245,
+                "creation_time": 1751757763.4224198,
+                "auxillary_file_paths": [
+                    "results\\chase_06\\Robot\\Robot-999864.pt"
+                ]
+            },
+            {
+                "steps": 1306198,
+                "file_path": "results\\chase_06\\Robot\\Robot-1306198.onnx",
+                "reward": 0.8132261514663697,
+                "creation_time": 1751759868.081926,
+                "auxillary_file_paths": [
+                    "results\\chase_06\\Robot\\Robot-1306198.pt"
+                ]
+            }
+        ],
+        "elo": 1040.60899793591,
+        "final_checkpoint": {
+            "steps": 1306198,
+            "file_path": "results\\chase_06\\Robot.onnx",
+            "reward": 0.8132261514663697,
+            "creation_time": 1751759868.081926,
+            "auxillary_file_paths": [
+                "results\\chase_06\\Robot\\Robot-1306198.pt"
+            ]
+        }
+    },
+    "Scientist": {
+        "checkpoints": [
+            {
+                "steps": 499946,
+                "file_path": "results\\chase_06\\Scientist\\Scientist-499946.onnx",
+                "reward": null,
+                "creation_time": 1751754803.7683384,
+                "auxillary_file_paths": [
+                    "results\\chase_06\\Scientist\\Scientist-499946.pt"
+                ]
+            },
+            {
+                "steps": 999992,
+                "file_path": "results\\chase_06\\Scientist\\Scientist-999992.onnx",
+                "reward": null,
+                "creation_time": 1751758122.4486547,
+                "auxillary_file_paths": [
+                    "results\\chase_06\\Scientist\\Scientist-999992.pt"
+                ]
+            },
+            {
+                "steps": 1224493,
+                "file_path": "results\\chase_06\\Scientist\\Scientist-1224493.onnx",
+                "reward": null,
+                "creation_time": 1751759868.2550762,
+                "auxillary_file_paths": [
+                    "results\\chase_06\\Scientist\\Scientist-1224493.pt"
+                ]
+            }
+        ],
+        "elo": 1201.3137602945,
+        "final_checkpoint": {
+            "steps": 1224493,
+            "file_path": "results\\chase_06\\Scientist.onnx",
+            "reward": null,
+            "creation_time": 1751759868.2550762,
+            "auxillary_file_paths": [
+                "results\\chase_06\\Scientist\\Scientist-1224493.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0+cpu"
+    }
+}
